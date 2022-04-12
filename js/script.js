@@ -1,7 +1,7 @@
 document.getElementById("waifu").addEventListener('click', getWaifu);
 
 function getWaifu() {
-    const url = "https://api.waifu.im/random/?is_nsfw=false&selected_tags=selfies&full=false";
+    const url = "https://api.waifu.im/random/?is_nsfw=false&full=false";
 
     fetch(url)
         .then(res => res.json()) //parse response as json

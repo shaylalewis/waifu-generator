@@ -37,3 +37,9 @@ p {
     color: #7E66A4;
     font-weight: bold;
 }
+
+h2 {
+    text-align: center;
+    color: #fea7bb;
+    font-size: 1rem;
+}

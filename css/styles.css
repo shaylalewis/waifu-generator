@@ -1,0 +1,39 @@
+.img1 {
+    max-width: 31%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #F2F7F4;
+}
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+    color: #F5695A;
+    /* height: auto; */
+}
+
+button {
+    height: auto;
+    margin: 0 auto;
+    display: block;
+    padding: 1rem;
+    margin-top: 1%;
+    font-size: 1.5rem;
+    margin-bottom: 1%;
+    border-radius: 7px;
+    border: 1px solid #F2F7F4;
+    background-color: #7E66A4;
+    color: #F2F7F4;
+}
+
+p {
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+    color: #7E66A4;
+    font-weight: bold;
+}
